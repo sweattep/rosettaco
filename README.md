@@ -1,2 +1,1 @@
-# rosettaco
-rosettaco
+* Paychecks: 7 day theory
